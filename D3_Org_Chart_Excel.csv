@@ -1,4 +1,4 @@
-﻿name ,imageUrl,positionName,area,tags,id,parentId,isLoggedUser
+﻿name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
  Miguel Patricio,https://www.linkedin.com/in/miguel-patricio1/overlay/photo/,CEO,KHC,mpatricio@kraftheinz.com,0,,Yes
  Carlos Abrams-Rivera,https://www.linkedin.com/in/abramsrivera/overlay/photo/,"EVP & President, North America",Marketing,Carlos.AbramsRivera@kraftheinz.com,1,0,Yes
  Diana Frost,https://www.linkedin.com/in/diana-frost-a71a15a6/overlay/photo/,"Chief Growth Officer, NA",Marketing,,2,1,Yes
